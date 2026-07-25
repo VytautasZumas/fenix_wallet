@@ -1,7 +1,7 @@
 # Fenix Wallet
 
 <p align="center">
-  <img src="src/assets/fenix-wallet-logo.png" width="150" alt="Logo da Fenix Wallet">
+  <img src="./fenix-wallet-logo.png" width="150" alt="Logo da Fenix Wallet">
 </p>
 
 <p align="center">
